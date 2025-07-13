@@ -12,6 +12,6 @@ Um projeto simples de calculadora criado em C# no console.
 
 ## Como Executar
 
-1. Clone o repositório
+1. Clone o repositório 
 2. Abra no Visual Studio
 3. Pressione F5 para rodar
